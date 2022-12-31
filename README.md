@@ -2,9 +2,9 @@
 This is a simple script to automate assigning an Asana task's subtasks to multiple users.
 ## How to Use
 ### Preparing your Subtasks
-This subtask uses "roles" at the beginning of a subtask's name to assign them to a particular user. For example, if you would like all administrative tasks to be assigned to the same user, you would want all of those subtasks to begin with an identifier for that role. Some examples:
-`ADMIN: Schedule Project Management Meeting`
-`Admin - Schedule Project Management Meeting`
+This subtask uses "roles" at the beginning of a subtask's name to assign them to a particular user. For example, if you would like all administrative tasks to be assigned to the same user, you would want all of those subtasks to begin with an identifier for that role. Some examples:\
+`ADMIN: Schedule Project Management Meeting`\
+`Admin - Schedule Project Management Meeting`\
 Whatever the role identifier is, the script will look for subtasks that begin with that word and assign them to the same user.
 ### Running this Script
 1. Clone this repository.
