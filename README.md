@@ -15,3 +15,7 @@ Whatever the role identifier is, the script will look for subtasks that begin wi
 6. Replace the `personal_access_token` variable with your Asana personal access token.
 7. Run the script on the terminal with `python workflow_assigner.py`.
 8. The script will print `Your workflow has been processed!` once all the subtasks have been assigned! 🎉
+## Technical Features
+These are some of the skills displayed in this project:
+* Knowledge of Asana's API and its Python client library
+* Python
